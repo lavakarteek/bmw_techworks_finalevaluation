@@ -1,0 +1,42 @@
+[
+    {
+      "Id": "msg-001",
+      "MessageBody": "{\"event_id\":\"bulk-001\",\"vehicle_id\":\"BMW-001\",\"timestamp\":\"2026-09-20T12:00:00Z\",\"temperature\":90,\"fault_code\":null}"
+    },
+    {
+      "Id": "msg-002",
+      "MessageBody": "{\"event_id\":\"bulk-002\",\"vehicle_id\":\"BMW-002\",\"timestamp\":\"2026-09-20T12:01:00Z\",\"temperature\":70,\"fault_code\":\"THERMAL_RUNAWAY\"}"
+    },
+    {
+      "Id": "msg-003",
+      "MessageBody": "{\"event_id\":\"bulk-003\",\"vehicle_id\":\"BMW-003\",\"timestamp\":\"2026-09-20T12:02:00Z\",\"temperature\":88,\"fault_code\":null}"
+    },
+    {
+      "Id": "msg-004",
+      "MessageBody": "{\"event_id\":\"bulk-004\",\"vehicle_id\":\"BMW-004\",\"timestamp\":\"2026-09-20T12:03:00Z\",\"temperature\":72,\"fault_code\":null}"
+    },
+    {
+      "Id": "msg-005",
+      "MessageBody": "{\"event_id\":\"bulk-005\",\"vehicle_id\":\"BMW-005\",\"timestamp\":\"2026-09-20T12:04:00Z\",\"temperature\":78,\"fault_code\":null}"
+    },
+    {
+      "Id": "msg-006",
+      "MessageBody": "{\"event_id\":\"bulk-006\",\"vehicle_id\":\"BMW-006\",\"timestamp\":\"2026-09-20T12:05:00Z\",\"temperature\":80,\"fault_code\":null}"
+    },
+    {
+      "Id": "msg-007",
+      "MessageBody": "{\"event_id\":\"bulk-007\",\"vehicle_id\":\"BMW-007\",\"timestamp\":\"2026-09-20T12:06:00Z\",\"temperature\":65,\"fault_code\":null}"
+    },
+    {
+      "Id": "msg-008",
+      "MessageBody": "{\"event_id\":\"bulk-008\",\"vehicle_id\":\"BMW-008\",\"timestamp\":\"2026-09-20T12:07:00Z\",\"temperature\":82,\"fault_code\":null}"
+    },
+    {
+      "Id": "msg-009",
+      "MessageBody": "{\"event_id\":\"bulk-009\",\"vehicle_id\":\"BMW-009\",\"timestamp\":\"2026-09-20T12:08:00Z\",\"temperature\":75,\"fault_code\":null}"
+    },
+    {
+      "Id": "msg-010",
+      "MessageBody": "{\"event_id\":\"bulk-010\",\"vehicle_id\":\"BMW-010\",\"timestamp\":\"2026-09-20T12:09:00Z\",\"temperature\":83,\"fault_code\":null}"
+    }
+]

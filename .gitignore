@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+vehicleenv/
+docs/_build/
+*.egg-info/
+.terraform/
+*.tfstate
+*.tfstate.*
+*.zip
+.env
+!.terraform.lock.hcl
