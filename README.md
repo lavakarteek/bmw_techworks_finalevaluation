@@ -1,3 +1,5 @@
+Sphinx Documentation Link:https://lavakarteek.github.io/bmw_techworks_finalevaluation/usage.html
+
 # BMW Vehicle Overheating and Fault Alert
 
 Participant 2 capstone implementation: detect dangerous telemetry, publish an alert, and write an audit record.
